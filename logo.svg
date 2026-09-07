@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">MISA app icon</title>
+  <desc id="desc">A warm white rounded M with a coral sound pulse on a near-black rounded square.</desc>
+
+  <rect width="1024" height="1024" rx="224" fill="#0D0D0F"/>
+
+  <path
+    d="M224 744 L254 304 L512 628 L770 304 L800 744"
+    fill="none"
+    stroke="#FFF9F0"
+    stroke-width="136"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M512 440
+       C520 487 537 504 584 512
+       C537 520 520 537 512 584
+       C504 537 487 520 440 512
+       C487 504 504 487 512 440Z"
+    fill="#FF6552"
+  />
+</svg>
